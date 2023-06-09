@@ -12,7 +12,7 @@ package main
 import (
   "fmt"
 
-  "github.com/janstuemmel/csgo-log"
+  "github.com/boyski33/csgo-log"
 )
 
 func main() {

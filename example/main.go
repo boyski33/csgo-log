@@ -5,7 +5,7 @@ import (
 	"fmt"
 	"os"
 
-	"github.com/janstuemmel/csgo-log"
+	"github.com/boyski33/csgo-log"
 )
 
 // Usage:
